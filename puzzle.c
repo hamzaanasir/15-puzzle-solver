@@ -11,7 +11,7 @@
 #include <assert.h>
 
 /**
- * READ THIS DESCRIPTION
+ * DESCRIPTION
  *
  * node data structure: containing state, g, f
  * you can extend it with more information if needed
